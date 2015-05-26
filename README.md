@@ -1,3 +1,4 @@
 # demo_git
 Une demo de git qui se passe bien
-choconaldo
+
+Et maintenent on modifie depuis github
